@@ -29,12 +29,12 @@ Open `script.js` and update:
 
 ```js
 const SOCIAL_LINKS = {
-  whatsapp: "https://wa.me/91XXXXXXXXXX",
+  whatsapp: "https://wa.me/918382996800",
   linkedin: "https://www.linkedin.com/company/your-company/"
 };
 ```
 
-Use the exact WhatsApp and LinkedIn URLs for the accounts you actually create. Leave them blank until then.
+WhatsApp is configured to +91 8382996800. Update the URL only if the business WhatsApp number changes. Keep LinkedIn blank until the company page URL is available.
 
 ## GitHub Pages deployment
 1. Open your GitHub repository.
